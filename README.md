@@ -21,7 +21,7 @@ cd Hospital_Management_System_App
 pip install -r requirements.txt
 ```
 
-### 4. Create and activate a virtual environment**
+### 4. Create and activate a virtual environment
 ```bash
 python -m venv venv
 # On Windows
