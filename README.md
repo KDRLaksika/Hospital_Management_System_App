@@ -48,13 +48,13 @@ python -m streamlit run app.py
 
 ## Not working? Check if Python is installed or not, and the environment variables
 
-## If Streamlit is installed but not recognized:
-## Add this to your system PATH:
+If Streamlit is installed but not recognized:
+- Add this to your system PATH:
 Windows:
-Find where Python is installed (look for a path like C:\Users\YourName\AppData\Local\Programs\Python\Python39\Scripts)
-Search for "Environment Variables" in Start menu
-Click "Edit the system environment variables"
-Click "Environment Variables"
-Under "System variables", find "Path" and click "Edit"
-Click "New" and add the path to your Python Scripts folder
-Click OK on all dialogs
+- Find where Python is installed (look for a path like C:\Users\YourName\AppData\Local\Programs\Python\Python39\Scripts)
+- Search for "Environment Variables" in Start menu
+- Click "Edit the system environment variables"
+- Click "Environment Variables"
+- Under "System variables", find "Path" and click "Edit"
+- Click "New" and add the path to your Python Scripts folder
+- Click OK on all dialogs
